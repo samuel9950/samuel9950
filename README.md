@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samuel9950 
+- 👋 Hi, I’m @samuel mutero 
 - 👀 passionate in designing algorithms to solve problems in real world.
 - 🌱 I’m currently learning backend web development 
 - 💞️ I’m looking to collaborate  to open source projects.
